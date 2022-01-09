@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mouad @obakydigital
+- 👀 I’m interested in Information technology, Business Softwares, Blockchain technologies and startups
+- 🌱 I’m currently learning typeScript, javaScript, NodeJs, MEAN Stack…
+- 💞️ I’m looking to collaborate on SaaS projects and JS libraries.
+- 📫 You can reach me at mouad.bachrouri@maroc-sites.com
